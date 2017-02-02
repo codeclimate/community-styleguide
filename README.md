@@ -8,9 +8,9 @@ This repository contains a collection of popular style guides that can be used t
 
 This repository currently includes written guides & relevant linter configuration for the following languages:
 
-* JavaScript
-* Ruby
+* [JavaScript](community-styleguide/JavaScript)
+* [Ruby](community-styleguide/Ruby)
 
 ## Configuration
 
-Developers who work with multiple repositories may want to use external configurations for engines to ensure consistent engine results between those repositories. Code Climate makes it easy to keep these shared configuration files in a single location and have them fetched on-demand when analysis is performed. Please see our instructions on how to set this up here: (hps://docs.codeclimate.com/docs/configuring-the-prepare-step)
+Developers who work with multiple repositories may want to use external configurations for engines to ensure consistent engine results between those repositories. Code Climate makes it easy to keep these shared configuration files in a single location and have them fetched on-demand when analysis is performed. Please see our instructions on how to set this up here: https://docs.codeclimate.com/docs/configuring-the-prepare-step
